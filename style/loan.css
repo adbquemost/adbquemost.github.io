@@ -1,0 +1,116 @@
+#Lmain {
+    clear:both;
+    margin: auto;
+	
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    font-size : 12px;
+}
+
+#Lform {
+    margin-left: 100px;
+	border: 1px solid #cccccc;
+	width: 356px;
+	background: #E9ECEF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    font-size : 12px;
+    padding:5px;
+    margin-bottom:10px;
+}
+
+#Lresult {
+    margin-left: 0px;
+	border: 1px solid #cccccc;
+	width: 100%;
+	background: #efefef;
+    font-family: 'HelveticaNeueRegular';
+    font-weight:normal;
+    font-size : 12px;
+    padding:5px;
+    margin-bottom:20px;
+}
+
+#Lform .Ltext {
+	border: 1px solid #cccccc;
+}
+
+#Lform input {
+    border: 0px solid #cccccc;
+}
+
+.Lvalues{
+  font-family: verdana;
+  font-weight:normal;
+  font-size : 10px;
+  align:top;
+  vertical-align:top;
+}
+
+.Lkey{
+  font-family: verdana;
+  font-weight:bold;
+  font-size : 12px;
+  padding-bottom:15px;
+}
+
+
+.Lcaption{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    margin:10px;
+    font-size : 14px;
+    color:#C64934;
+}
+.Notecaption{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    margin:10px;
+    font-size : 11px;
+    color:#C64934;
+}
+#Licon{
+    width:100px;
+    height:100px;
+    float:left;
+    background-image:url(../index.html);
+    background-repeat: no-repeat;
+    background-position:center center;
+}
+#Licon2{
+    width:100px;
+    height:100px;
+    float:left;
+    background-image:url(../index.html);
+    background-repeat: no-repeat;
+    background-position:center center;
+}
+
+#Lsource{
+  text-align:right;
+  align:right;
+  padding-right:10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight:normal;
+  font-size : 10px;
+  color:#CCCCCC;
+}
+
+.Ldetail{
+   border-collpase:collapse;
+   width:100%;
+   
+}
+
+.Ldetail td {
+   padding:5px;
+   border:1px solid #ccc;
+   text-align:right;
+   font-weight:normal;
+}
+
+.Lres{
+   padding:5px;
+   font-size:14px;
+   color:#C64934;
+}
